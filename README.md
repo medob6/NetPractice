@@ -1,6 +1,6 @@
 <h1 align="center">🌐 42 NetPractice</h1>
 <p align="center">
-  <b>Networking Fundamentals – 42 School Project</b><br/>
+  <b>Networking Fundamentals – 42 Project</b><br/>
   <i>Learn IP addressing, subnetting, and routing through interactive exercises.</i>
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 📘 Project Overview
 
-**NetPractice** is a **42 School project** designed to teach the **basics of computer networking**.  
+**NetPractice** is a **42 project** designed to teach the **basics of computer networking**.  
 You’ll configure a series of virtual networks to make all devices communicate successfully by applying concepts like **IP addressing**, **subnetting**, and **routing**.
 
 Through practical exercises, you’ll move from simple two-device connections to multi-router setups with multiple subnets.
